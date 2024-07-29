@@ -1,6 +1,7 @@
 langchain
 langchain-huggingface
 streamlit
+transformers
 
 faiss-cpu
 boto3
@@ -9,7 +10,6 @@ python-dotenv
 langchain-openai
 pypdf
 huggingface_hub
-transformers
 accelerate
 bitsandbytes
 wikipedia
